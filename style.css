@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@300&display=swap");
+body {
+  /*    background-color: #FFBA08; */
+  background-image: url("stacked-steps-haikei.png");
+  background-size: cover;
+}
+
+#header {
+  font-family: 'M PLUS 1', sans-serif;
+  background-color: #F48C06;
+  text-align: center;
+}
+
+#container {
+  padding-left: 500px;
+  margin-top: 100px;
+}
+
+.link {
+  background-color: burlywood;
+  font-size: 25px;
+  color: chocolate;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20%;
+}
+/*# sourceMappingURL=style.css.map */
